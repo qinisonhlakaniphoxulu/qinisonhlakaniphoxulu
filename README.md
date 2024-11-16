@@ -1,4 +1,4 @@
-**qinisonhlakaniphoxulu/qinisonhlakan👋 Hi, I'm Qiniso Nhlakanipho Xulu!
+## 👋 Hi, I'm Qiniso Nhlakanipho Xulu!
 
 Welcome to my GitHub profile! I’m a passionate software developer and AI specialist dedicated to leveraging technology for impactful solutions. Here, you’ll find projects that showcase my journey in web development, data science, artificial intelligence, and more.
 🚀 About Me
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate software developer and AI speci
     🎨 Strong skills in ReactJS, NextJS, SQL and Django, with experience in building interactive web applications and APIs.
     🌍 Dedicated to creating technology solutions to address challenges in South Africa and beyond.
 
-🌐 Projects
+### 🌐 Projects
 
 Here are some of my key projects:
 🌡️ Global Warming Awareness Map
@@ -22,7 +22,7 @@ Here are some of my key projects:
     A spam detection program with a classification accuracy goal of over 75%.
     Built using Python with a custom method to evaluate email contents.
 
-🛠️ Skills
+### 🛠️ Skills
 
     Programming Languages: Python, JavaScript, TypeScript, SQL, C++, Java
     Frameworks and Libraries: ReactJS, Django, MUI, NextJS
