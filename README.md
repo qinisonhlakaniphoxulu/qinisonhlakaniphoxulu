@@ -37,6 +37,6 @@ Here are some of my key projects:
 
 📫 Connect with Me
     
-[linkedin.com/in/qinisoxulu] (https://linkedin.com/in/qinisoxulu)
+[linkedin] (https://linkedin.com/in/qinisoxulu)
 
 Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate! 😊
