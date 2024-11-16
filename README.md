@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **qinisonhlakaniphoxulu/qinisonhlakan👋 Hi, I'm Qiniso Nhlakanipho Xulu!
 
 Welcome to my GitHub profile! I’m a passionate software developer and AI specialist dedicated to leveraging technology for impactful solutions. Here, you’ll find projects that showcase my journey in web development, data science, artificial intelligence, and more.
