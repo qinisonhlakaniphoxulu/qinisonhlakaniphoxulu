@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢🏢 Currently enrolled at WeThinkCode_ as a software developer student from 2024 - 2025.<br>🎓🎓 Studied Bsc General & Computer Science at Wits University from 2021 - 2023.<br>💻💻 Hackathon enthusiast! Proud Galactic Problem Solver from the 2024 NASA International Space Apps Challenge.<br>🎨🎨 Strong skills in ReactJS, NextJS, SQL and Django, with experience in building interactive web applications and APIs.<br>🌍🌍 Dedicated to creating technology solutions to address challenges in South Africa and beyond.
+🏢 Currently enrolled at WeThinkCode_ as a software developer student from 2024 - 2025.<br>🎓 Studied Bsc General & Computer Science at Wits University from 2021 - 2023.<br>💻 Hackathon enthusiast! Proud Galactic Problem Solver from the 2024 NASA International Space Apps Challenge.<br>🎨 Strong skills in ReactJS, NextJS, SQL and Django, with experience in building interactive web applications and APIs.<br>🌍 Dedicated to creating technology solutions to address challenges in South Africa and beyond.
 
 
 ## 🌐 Socials:
